@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 
 public class Student {
-    public static void main(String[] args) {
+//    public static void main(String[] args) {
 //        ArrayList<String> studentList = new ArrayList<String>();
 //        studentList.add("John");
 //        studentList.add("Lily");
@@ -51,7 +51,15 @@ public class Student {
 //        System.out.println("uppercase: "+upercase);
 //        System.out.println("lowercase: "+lowercase);
 
+//    }
+
+    // Protected and Final keywords in Java
+    protected double gpa;
+    // any child class of Student can access gpa
+    final protected boolean isStudent(){
+        return true;
     }
+    // any child class of Student cannot modify isStudent()
 }
 
 

@@ -2,6 +2,36 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Linh_Note_Java/Linh_Note_Java.iml" filepath="$PROJECT_DIR$/Linh_Note_Java/Linh_Note_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial26_Polymorphism/Tutorial26_Polymorphism.iml" filepath="$PROJECT_DIR$/Tutorial26_Polymorphism/Tutorial26_Polymorphism.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial27_Encapsulation/Tutorial27_Encapsulation.iml" filepath="$PROJECT_DIR$/Tutorial27_Encapsulation/Tutorial27_Encapsulation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial28_Casting/Tutorial28_Casting.iml" filepath="$PROJECT_DIR$/Tutorial28_Casting/Tutorial28_Casting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial29__UpcastingandDowncasting/Tutorial29__UpcastingandDowncasting.iml" filepath="$PROJECT_DIR$/Tutorial29__UpcastingandDowncasting/Tutorial29__UpcastingandDowncasting.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial30_UsingGenerics/Tutorial30_UsingGenerics.iml" filepath="$PROJECT_DIR$/Tutorial30_UsingGenerics/Tutorial30_UsingGenerics.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial32_GenericsAndWildcards/Tutorial32_GenericsAndWildcards.iml" filepath="$PROJECT_DIR$/Tutorial32_GenericsAndWildcards/Tutorial32_GenericsAndWildcards.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial33_Anonymous/Tutorial33_Anonymous.iml" filepath="$PROJECT_DIR$/Tutorial33_Anonymous/Tutorial33_Anonymous.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial33_ReadingTextFiles/Tutorial33_ReadingTextFiles.iml" filepath="$PROJECT_DIR$/Tutorial33_ReadingTextFiles/Tutorial33_ReadingTextFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial34_HandlingException/Tutorial34_HandlingException.iml" filepath="$PROJECT_DIR$/Tutorial34_HandlingException/Tutorial34_HandlingException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial36_MultipleException/Tutorial36_MultipleException.iml" filepath="$PROJECT_DIR$/Tutorial36_MultipleException/Tutorial36_MultipleException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial37_RuntimeException/Tutorial37_RuntimeException.iml" filepath="$PROJECT_DIR$/Tutorial37_RuntimeException/Tutorial37_RuntimeException.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial38_AbstractClasses/Tutorial38_AbstractClasses.iml" filepath="$PROJECT_DIR$/Tutorial38_AbstractClasses/Tutorial38_AbstractClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial39_ReadingFilesWithFileReaders/Tutorial39_ReadingFilesWithFileReaders.iml" filepath="$PROJECT_DIR$/Tutorial39_ReadingFilesWithFileReaders/Tutorial39_ReadingFilesWithFileReaders.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial40_TryWithResources/Tutorial40_TryWithResources.iml" filepath="$PROJECT_DIR$/Tutorial40_TryWithResources/Tutorial40_TryWithResources.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial41_WritingFiles/Tutorial41_WritingFiles.iml" filepath="$PROJECT_DIR$/Tutorial41_WritingFiles/Tutorial41_WritingFiles.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial42_Equals/Tutorial42_Equals.iml" filepath="$PROJECT_DIR$/Tutorial42_Equals/Tutorial42_Equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial43_InnerClasses/Tutorial43_InnerClasses.iml" filepath="$PROJECT_DIR$/Tutorial43_InnerClasses/Tutorial43_InnerClasses.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial44_Enum/Tutorial44_Enum.iml" filepath="$PROJECT_DIR$/Tutorial44_Enum/Tutorial44_Enum.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial45_Recursion/Tutorial45_Recursion.iml" filepath="$PROJECT_DIR$/Tutorial45_Recursion/Tutorial45_Recursion.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial46_Serialization/Tutorial46_Serialization.iml" filepath="$PROJECT_DIR$/Tutorial46_Serialization/Tutorial46_Serialization.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial47_SerializingArrays/Tutorial47_SerializingArrays.iml" filepath="$PROJECT_DIR$/Tutorial47_SerializingArrays/Tutorial47_SerializingArrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial49_PassingByValue/Tutorial49_PassingByValue.iml" filepath="$PROJECT_DIR$/Tutorial49_PassingByValue/Tutorial49_PassingByValue.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial53_ArrayList_Arrays/Tutorial53_ArrayList_Arrays.iml" filepath="$PROJECT_DIR$/Tutorial53_ArrayList_Arrays/Tutorial53_ArrayList_Arrays.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial54_LinkedLists/Tutorial54_LinkedLists.iml" filepath="$PROJECT_DIR$/Tutorial54_LinkedLists/Tutorial54_LinkedLists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial55_HashMap/Tutorial55_HashMap.iml" filepath="$PROJECT_DIR$/Tutorial55_HashMap/Tutorial55_HashMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial56_SortedMaps/Tutorial56_SortedMaps.iml" filepath="$PROJECT_DIR$/Tutorial56_SortedMaps/Tutorial56_SortedMaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial57_Set/Tutorial57_Set.iml" filepath="$PROJECT_DIR$/Tutorial57_Set/Tutorial57_Set.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial58_UsingObjectInSetAndKeyInMap/Tutorial58_UsingObjectInSetAndKeyInMap.iml" filepath="$PROJECT_DIR$/Tutorial58_UsingObjectInSetAndKeyInMap/Tutorial58_UsingObjectInSetAndKeyInMap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial59_SortingList/Tutorial59_SortingList.iml" filepath="$PROJECT_DIR$/Tutorial59_SortingList/Tutorial59_SortingList.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning.iml" filepath="$PROJECT_DIR$/learning.iml" />
     </modules>
   </component>

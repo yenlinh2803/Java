@@ -36,8 +36,27 @@ public class CheckingAccount<main, psvm> {
 //        this.exampleMethodTwo();
 //    }
 
-//Static Methods
-//    public static
+////Static Methods
+//    public static int getTotal(int a, int b){
+//        return a+b;
+//    }
+//    public static void main(String[] args) {
+//        int x = 3;
+//        int y = 2;
+//        System.out.println(getTotal(x,y));
+//    }
+
+////    Math Class
+//    public static void main(String[] args){
+//        int largeNumber = Math.max(3,10);
+//        System.out.println(largeNumber);
+//
+//        System.out.println(Math.abs(-7.0));
+//        System.out.println(Math.pow(5,3));
+//        System.out.println(Math.sqrt(52));
+//    }
+
+
 
 }
 

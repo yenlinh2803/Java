@@ -26,6 +26,10 @@ public class Person {
         age = a;
         name = b;
     }
+
+    public void greet(){
+        System.out.println("hello there");
+    }
     public static void main(String[] args){
         Person p = new Person(20, "Bosh");
         System.out.println("Age is "+ p.age);
