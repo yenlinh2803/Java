@@ -32,6 +32,9 @@
       <module fileurl="file://$PROJECT_DIR$/Tutorial57_Set/Tutorial57_Set.iml" filepath="$PROJECT_DIR$/Tutorial57_Set/Tutorial57_Set.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial58_UsingObjectInSetAndKeyInMap/Tutorial58_UsingObjectInSetAndKeyInMap.iml" filepath="$PROJECT_DIR$/Tutorial58_UsingObjectInSetAndKeyInMap/Tutorial58_UsingObjectInSetAndKeyInMap.iml" />
       <module fileurl="file://$PROJECT_DIR$/Tutorial59_SortingList/Tutorial59_SortingList.iml" filepath="$PROJECT_DIR$/Tutorial59_SortingList/Tutorial59_SortingList.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial60_NaturalOrdering/Tutorial60_NaturalOrdering.iml" filepath="$PROJECT_DIR$/Tutorial60_NaturalOrdering/Tutorial60_NaturalOrdering.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial61_Queues/Tutorial61_Queues.iml" filepath="$PROJECT_DIR$/Tutorial61_Queues/Tutorial61_Queues.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Tutorial62_UsingIterator/Tutorial62_UsingIterator.iml" filepath="$PROJECT_DIR$/Tutorial62_UsingIterator/Tutorial62_UsingIterator.iml" />
       <module fileurl="file://$PROJECT_DIR$/learning.iml" filepath="$PROJECT_DIR$/learning.iml" />
     </modules>
   </component>

@@ -52,4 +52,60 @@ public class App {
 //    Set<String> difference = new HashSet<String>(set1);
 //        difference.removeAll(set2);
 //        System.out.println(difference);
+
+
+    // Super
+//    class Vehicle {
+//        int maxSpeed = 120;
+//    }
+//
+//    /* sub class Car extending vehicle */
+//    class Car extends Vehicle {
+//        int maxSpeed = 180;
+//
+//        void display()
+//        {
+//            /* print maxSpeed of base class (vehicle) */
+//            System.out.println("Maximum Speed: "
+//                    + super.maxSpeed);
+//        }
+//    }
+//
+//    /* Driver program to test */
+//    class Test {
+//        public static void main(String[] args)
+//        {
+//            Car small = new Car();
+//            small.display();
+//        }
+//    }
+
+    // Super()
+//// Java code to demonstrate super()
+//    /* superclass Person */
+//    class Person {
+//        Person()
+//        {
+//            System.out.println("Person class Constructor");
+//        }
+//    }
+//    /* subclass Student extending the Person class */
+//    class Student extends Person {
+//        Student()
+//        {
+//            // invoke or call parent class constructor
+//            super();
+//
+//            System.out.println("Student class Constructor");
+//        }
+//    }
+//    /* Driver program to test*/
+//    class Test {
+//        public static void main(String[] args)
+//        {
+//            Student s = new Student();
+//        }
+//    }
+
+
 }
